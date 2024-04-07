@@ -1,1 +1,1 @@
-# time-series-analysis
+# Аналіз часових рядів
